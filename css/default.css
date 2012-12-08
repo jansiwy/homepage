@@ -279,8 +279,8 @@ a:hover {
   font-size: 14px;
   margin: 0 270px 3.65625em 0;
 }
-#site-title,
-#site-description {
+.banner #site-title,
+.banner #site-description {
   position: absolute !important;
   clip: rect(1px 1px 1px 1px); /* IE6, IE7 */
   clip: rect(1px, 1px, 1px, 1px);
